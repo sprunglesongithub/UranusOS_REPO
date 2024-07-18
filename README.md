@@ -1,2 +1,5 @@
 # UranusOS_REPO
-Respository for Uranus OS
+
+Arch Linux Repository for Uranus OS Beta 1.2
+
+
